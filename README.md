@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Casualplayer41
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning lua
 - 📫 How to reach me: add me on dicord, username is roguekitty. (with the dot)
 - 😄 Pronouns: he/him
