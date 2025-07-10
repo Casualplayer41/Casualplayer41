@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Casualplayer41
-- 👀 I’m interested in learning coding
-- 🌱 I’m currently learning lua
-- 📫 How to reach me: add me on dicord, username is roguekitty. (with the dot)
-- 😄 Pronouns: he/him
+- Hi, I’m @Casualplayer41. 
+- I’m interested in learning coding. 
+- I’m currently learning ctjs for chat triggers, 1.8.9 hypixel. 
+- How to reach me: add me on dicord, username is averageplayer41. 
+- Pronouns: he/him. 
